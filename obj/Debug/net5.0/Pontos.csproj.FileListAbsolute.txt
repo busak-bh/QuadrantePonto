@@ -1,0 +1,16 @@
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\bin\Debug\net5.0\Pontos.exe
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\bin\Debug\net5.0\Pontos.deps.json
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\bin\Debug\net5.0\Pontos.runtimeconfig.json
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\bin\Debug\net5.0\Pontos.runtimeconfig.dev.json
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\bin\Debug\net5.0\Pontos.dll
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\bin\Debug\net5.0\ref\Pontos.dll
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\bin\Debug\net5.0\Pontos.pdb
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\obj\Debug\net5.0\Pontos.csprojAssemblyReference.cache
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\obj\Debug\net5.0\Pontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\obj\Debug\net5.0\Pontos.AssemblyInfoInputs.cache
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\obj\Debug\net5.0\Pontos.AssemblyInfo.cs
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\obj\Debug\net5.0\Pontos.csproj.CoreCompileInputs.cache
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\obj\Debug\net5.0\Pontos.dll
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\obj\Debug\net5.0\ref\Pontos.dll
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\obj\Debug\net5.0\Pontos.pdb
+C:\Users\busak\Desktop\Fabio\Formação Academica\Dotnet\Pontos\obj\Debug\net5.0\Pontos.genruntimeconfig.cache
